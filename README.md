@@ -1,4 +1,4 @@
-# Hotel Data Analytics Project Using Python
+# Hotel Data Analytics Project Using Python Pandas
 
 ## AtliQ Grand Hotel
 
