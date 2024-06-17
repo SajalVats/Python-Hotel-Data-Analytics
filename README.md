@@ -24,7 +24,7 @@ The steps involved in the project include:
 - Data cleaning & exploration
 - Data transformation
 
-![Steps Involved](path/to/your/project_insights_image.jpg)
+![Steps Involved](https://github.com/SajalVats/Python-Hotel-Data-Analytics/blob/main/OLAP%20Data%20Warehouse.png)
 
 ### Project Insights
 
