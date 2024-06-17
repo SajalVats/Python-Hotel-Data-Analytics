@@ -4,7 +4,7 @@
 
 AtliQ Grand Hotel has a chain of hotels in 4 Indian cities: Delhi, Mumbai, Bangalore, and Hyderabad. They offer various types of hotels and segments of rooms. Bookings occur either through AtliQ's own website or via third-party websites.
 
-![Hotel Types](path/to/your/hotel_chain_image.jpg)
+![Hotel Types](https://github.com/SajalVats/Python-Hotel-Data-Analytics/blob/main/Types%20of%20Hotels.png)
 ![Hotel Rooms](path/to/your/hotel_rooms_image.jpg)
 
 ### Problem Statement
