@@ -13,7 +13,7 @@ AtliQ Grand is facing severe challenges from its competitors and is losing marke
 
 We will not perform the analysis on the Booking database (OLTP) as it may interfere with its operations. Using ETL, we will create a Data Warehouse (OLAP) to perform the analysis.
 
-![Analytics Process](path/to/your/analytics_process_image.jpg)
+![Analytics Process](https://github.com/SajalVats/Python-Hotel-Data-Analytics/blob/main/Steps%20in%20Analytics.png)
 
 ### Analytics Approach
 
